@@ -1,0 +1,23 @@
+title {
+ text-align: center;
+}
+div.projects {
+    margin: 5px;
+  border: 1px solid #ccc;
+  float: left;
+  width: 180px;
+}
+
+div.projects:hover {
+  border: 1px solid #777;
+}
+
+div.projects img {
+  width: 100%;
+  height: auto;
+}
+
+div.desc {
+  padding: 5px;
+  text-align: center;
+}
